@@ -14,7 +14,7 @@ This is the project I created for **Lincode's Virtual Hackathon 2020**.
 
 - ⏳ Can also answer Questions in **Real-time** **without** having to train on **Data Paragraph** using google's **Word2Vec** model.  
 
-- 🌎 _Ready to Deploy_.
+- 🌎 _Ready to Deploy_!
 
 ### Use Cases:
 
